@@ -3,7 +3,7 @@ import json
 
 import requests
 
-# Use Like python githubber.py JASchilz
+# Use Like python main.py dac2229
 # (or another user name)
 
 if __name__ == "__main__":
